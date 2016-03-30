@@ -1,0 +1,5 @@
+boto==2.39.0
+filechunkio==1.6
+mrjob==0.5.0
+PyYAML==3.11
+wheel==0.24.0
